@@ -3,12 +3,11 @@
 <h3 align="center">A passionate junior web developer from France!</h3>
 
 - 🌱 I’m currently learning **javascript vanilla.**
+- 🔧 I'm currently improving my skills on ** CSS, ruby, ruby on rails. **
 
-- 💬 Ask me about **ruby on rails**
+- 📫 How to reach me : **jfvernet22@gmail.com**
 
-- 📫 How to reach me **jfvernet22@gmail.com**
-
-- ⚡ Fun fact **I'm also a tattoo artist ! 🎨**
+- ⚡ Fun fact, **I'm also a tattoo artist ! 🎨**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
